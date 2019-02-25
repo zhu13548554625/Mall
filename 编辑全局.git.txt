@@ -1,6 +1,0 @@
-[user]
-name = zhu13548554625
-email = 1450649035@qq.com
-signingkey = zhu523382
-[credential]
-helper = store
